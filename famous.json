@@ -200,4 +200,22 @@
         ],
         "awards": 67
     }
-}
+},
+{
+    "Swift": {
+        "full name": "Taylor Swift",
+        "instruments": [
+            "guitar",
+            "piano",
+            "ukulele",
+            "electric guitar",
+            "banjo"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/Taylor_Swift",
+        "born": 1989,
+        "place of birth": "West Reading, Pennsylvania",
+        "lucky number": 13,
+        "records sold": 200M,
+        "grammys": 14
+    }
+ },
